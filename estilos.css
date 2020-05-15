@@ -1,0 +1,152 @@
+﻿
+
+
+body 
+{
+  
+    background-image: url("./Imagenes/fondoweb.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+/* https://i.pinimg.com/originals/b8/8c/d6/b88cd67fef9b2f690667dcb86df35f5b.jpg
+
+
+    url("https://images5.alphacoders.com/448/448134.jpg")
+
+https://images5.alphacoders.com/448/448134.jpg */
+
+h1 {
+    color: whitesmoke;
+    font-size: 75px;
+}
+
+h3 
+{
+    text-decoration:underline;
+    color: whitesmoke;
+    text-align:right;
+    margin-right: 7%;
+}
+
+h4 {
+    color: whitesmoke;
+   
+}
+
+p1 {
+    float: left;
+    display: table-cell;
+    vertical-align: middle;
+    width: 930px;
+    height: 130px;
+    margin: 0;
+    padding: 0 1rem;
+    
+    font-size: 1.2rem;
+
+    color: whitesmoke;
+}
+
+p2 {
+    float: left;
+    display: table-cell;
+    vertical-align: middle;
+    width: 930px;
+    height: 35px;
+    margin: 0;
+    padding: 0 1rem;
+    font-size: 1.2rem;
+    color: whitesmoke;
+
+
+}
+
+p3
+{
+    float: left;
+    display: table-cell;
+    vertical-align: middle;
+    width: 930px;
+    height: 40px;
+    margin: 0;
+    padding: 0 1rem;
+    font-size: 1.2rem;
+    color: whitesmoke;
+}
+
+
+p4 {
+    float: left;
+    display: table-cell;
+    vertical-align: middle;
+    width: 930px;
+    height: 40px;
+    margin: 0;
+    padding: 0 1rem;
+    font-size: 1.2rem;
+    color: whitesmoke;
+}
+
+p5 {
+    float: left;
+    display: table-cell;
+    vertical-align: middle;
+    width: 930px;
+    height: 35px;
+    margin: 0;
+    padding: 0 1rem;
+    font-size: 1.2rem;
+    color: whitesmoke;
+}
+
+p6 {
+    
+    display: table-cell;
+    vertical-align: middle;
+    width: 20px;
+    height: 0px;
+    margin: 0;
+    padding: 0 1rem;
+    font-size: 1.2rem;
+    color: whitesmoke;
+}
+
+label {
+
+    
+    text-align: center;
+    color: whitesmoke;
+    
+}
+
+
+
+
+div{
+
+   
+    text-align:right;
+    
+
+}
+
+div_p1 {
+    
+    text-align: left;
+}
+
+img
+{
+   
+    float: left;
+
+
+}
+
+a {
+    color: whitesmoke;
+}
+
+
